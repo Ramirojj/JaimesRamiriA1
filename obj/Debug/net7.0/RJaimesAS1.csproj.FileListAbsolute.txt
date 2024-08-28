@@ -1,0 +1,15 @@
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/bin/Debug/net7.0/RJaimesAS1
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/bin/Debug/net7.0/RJaimesAS1.deps.json
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/bin/Debug/net7.0/RJaimesAS1.runtimeconfig.json
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/bin/Debug/net7.0/RJaimesAS1.dll
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/bin/Debug/net7.0/RJaimesAS1.pdb
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/RJaimesAS1.csproj.AssemblyReference.cache
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/RJaimesAS1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/RJaimesAS1.AssemblyInfoInputs.cache
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/RJaimesAS1.AssemblyInfo.cs
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/RJaimesAS1.csproj.CoreCompileInputs.cache
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/RJaimesAS1.dll
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/refint/RJaimesAS1.dll
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/RJaimesAS1.pdb
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/RJaimesAS1.genruntimeconfig.cache
+/Users/ramirojaimes/RamiroJaimes/GPI/Corsefile/newchance/assigment1/Ramiro Jaimes Assigment1/RJaimesAS1/obj/Debug/net7.0/ref/RJaimesAS1.dll
